@@ -1,0 +1,13 @@
+{
+  "name": "devops-prueba",
+  "version": "1.0.0",
+  "description": "Prueba practica para workflow de DevOps",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
